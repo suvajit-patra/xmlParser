@@ -6,8 +6,14 @@
   <ol>
     <li>
       <a href="#general-info">About The Project</a>
+    </li>
+    <li>
       <a href="#run">About The Project</a>
+    </li>
+    <li>
       <a href="#input">About The Project</a>
+    </li>
+    <li>
       <a href="#query">About The Project</a>
     </li>
   </ol>
