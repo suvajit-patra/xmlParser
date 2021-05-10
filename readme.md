@@ -8,13 +8,13 @@
       <a href="#general-info">About The Project</a>
     </li>
     <li>
-      <a href="#run">About The Project</a>
+      <a href="#run">Run</a>
     </li>
     <li>
-      <a href="#input">About The Project</a>
+      <a href="#input">Input</a>
     </li>
     <li>
-      <a href="#query">About The Project</a>
+      <a href="#query">Query</a>
     </li>
   </ol>
 </details>
