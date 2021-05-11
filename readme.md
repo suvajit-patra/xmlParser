@@ -5,7 +5,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#general-info">About The Project</a>
+      <a href="#general-info">General Info</a>
     </li>
     <li>
       <a href="#run">Run</a>
