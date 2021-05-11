@@ -32,11 +32,11 @@
 
 * To make the ```xmlParser``` executable 
 ```
-$ make
+  make
 ```
 * To clean derived files
 ```
-$ make clean
+  make clean
 ```
 
 ## Input
@@ -45,15 +45,15 @@ There are 3 ways to give Input (!!!Caution ```xml``` filename must follow ```xsd
 
 1. Parse ```xsd``` and ```xml``` files without verbose
 ```
-$ ./xmlParser input.xsd input.xml
+  ./xmlParser input.xsd input.xml
 ```
 2. Parse ```xsd``` and ```xml``` files and see trace parsing verbose
 ```
-$ ./xmlParser -p input.xsd input.xml
+  ./xmlParser -p input.xsd input.xml
 ```
 3. Parse ```xsd``` and ```xml``` files and see trace scanning verbose
 ```
-$ ./xmlParser -s input.xsd input.xml
+  ./xmlParser -s input.xsd input.xml
 ```
 
 ## Query
@@ -62,11 +62,11 @@ There are 2 types of query you can make
 
 1. element query
 ```
-.childElementName
+  .childElementName
 ```
 2. specific element with attribute query
 ```
-.childElementName(attribute_value)
+  .childElementName(attribute_value)
 ```
 * If query successful then all the results will be shown. 
 * If query results are complex type then those cannot pe printed as strings. 
